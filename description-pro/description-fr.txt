@@ -1,0 +1,10 @@
+Cette appli déverrouille le statut Pro de la version gratuite de confiance.
+Elle ne fait rien par elle-même et devrait être installée aux côtés de la version gratuite de Confiance.
+
+Désinstaller le déverrouilleur allongera la durée maximale durant laquelle les événements sont gardés de 24 heures à une semaine. 
+Ceci soutiendra aussi mon travail, merci. :-) 
+
+Si vous avez des questions n'hésitez pas à m'envoyer un courriel.
+
+Voir aussi :
+https://play.google.com/store/apps/details?id=eu.thedarken.trust

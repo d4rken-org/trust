@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Trust Pro</string>
+    <string name="thank_you">Tack för att du köpte Trust Pro och stöder mitt arbete!</string>
+    <string name="hide_launcher_icon">Göm startikon</string>
+    <string name="explanation">Denna upplåsare aktiverar ytterligare funktioner i gratisversionen av Trust\nStart av upplåsare är inte nödvändigt och kommer bara visa denna förklaring.\nNOTERA: Upplåsaren behöver vara fortsatt installerad, men du kan dölja ikonen i din appmeny genom att klicka på knappen (kan kräva omstart av enhet).\nYtterligare frågor? Eposta mig!\nsupport@darken.eu\n\nFortsätt nu genom att starta Trust</string>
+</resources>

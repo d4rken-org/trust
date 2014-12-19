@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Trust Pro</string>
+  <string name="thank_you">Obrigado por ter comprado Trust Pro e apoiar o meu trabalho!</string>
+  <string name="trust_market">Iniciar Trust</string>
+  <string name="hide_launcher_icon">Ocultar ícone iniciador</string>
+  <string name="explanation">\"Este desbloqueador permite os recursos adicionais na versão gratuita de Trust\n\nIniciar o desbloqueador não é necessário e vai apenas mostrar essa explicação.\n\nNOTA: O desbloqueador precisa ficar instalado, mas pode ocultar o ícone da sua lista de aplicações/menu pressionando a botão (talvez seja necessário reiniciar o dispositivo).\n\nOutras perguntas? Envie um e-mail!\nsupport@darken.eu\n\nAgora prossiga com o lançamento de Trust\"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Trust Pro</string>
+    <string name="thank_you">Vielen Dank, dass du Trust Pro gekauft hast und damit meine Arbeit unterstützt!</string>
+    <string name="trust_market">Starte Trust</string>
+    <string name="hide_launcher_icon">Verstecke das Starter-Bild</string>
+    <string name="explanation">Dieser Unlocker ermöglicht zusätzliche Funktionen in der kostenlosen Version von Trust.\nDen Unlocker zu starten ist nicht nötig und wird nur diese Erklärung zeigen.\nWICHTIG: Der Unlocker muss installiert bleiben, doch du kannst das Bildchen von dieser App in der Liste/Menu verstecken, indem du den Knopf drückst. Dies benötigt allenfalls einen Geräteneustart.\n\nWeitere Fragen? Schreib mir eine E-Mail!\nsupport@darken.eu\n\nFahre nun fort durch das Starten von Trust</string>
+</resources>

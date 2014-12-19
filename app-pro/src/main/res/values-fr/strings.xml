@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Confiance Pro</string>
+    <string name="thank_you">Merci d\'avoir acheté Confiance Pro et de soutenir mon travail !</string>
+    <string name="trust_market">Lancer Confiance</string>
+    <string name="hide_launcher_icon">Masquer l\'icône du lanceur</string>
+    <string name="explanation">Ce déverrouilleur active les fonctions additionnelles de la version gratuite de Confiance.\n\nLancer le déverrouilleur n\'est pas nécessaire et montrera juste cette explication.\n\nNOTE : Le déverrouilleur doit rester installé, mais l\'icône peut être masquée de votre liste/menu d\'applis en pressant le bouton (peut nécessiter un redémarrage de l\'appareil).\n\nD\'autres questions ? Envoyez-moi un courriel (allemand ou anglais) !\nsupport@darken.eu\nMerci !\n\nContinuer en lançant Confiance.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation"
+    tools:locale="en">
+  <string name="app_name">Trust Pro</string>
+  <string name="thank_you">Thank you for purchasing Trust Pro and supporting my work!</string>
+  <string name="trust_market">Launch Trust</string>
+  <string name="hide_launcher_icon">Hide launcher icon</string>
+  <string name="explanation">This Unlocker enables the additional features in the free version of Trust\n\nStarting the Unlocker is not necessary and will just show this explanation.\n\nNOTE: The unlocker needs to stay installed, but you can hide the icon from your app list/menu by pressing the button (might need device restart).\n\nFurther questions? Email me!\nsupport@darken.eu\n\nNow proceed by launching Trust\n</string>
+</resources>

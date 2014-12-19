@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Trust Pro</string>
+  <string name="thank_you">Děkuji za zakoupení Trust Pro a podporu mé práce!</string>
+  <string name="hide_launcher_icon">Skrýt ikonu launcheru</string>
+  <string name="explanation">Unlocker povolí přidané funkce do free verze Trust\nPoušět Unlocker není potřeba, zobrazí pouze tento popis.\nPoznámka: Unlocker musí zůstat nainstalovaný, ale jeho ikonu můžete skrýt tlačítkem (může vyžadovat restart).\nDalší dotazy? Napište mi mail!\nsupport@darken.eu\nTeď pokračujte puštěním Trust</string>
+</resources>

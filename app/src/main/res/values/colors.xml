@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="trustevents">#00BFFF</color>
+    <color name="system_events">#FFB300</color>
+    <color name="screen_events">#00EB2B</color>
+    <color name="app_events">#FFFF00</color>
+    <color name="call_events">#F50000</color>
+    <color name="cell_events">#888888</color>
+    <color name="wifi_events">#222222</color>
+
+</resources>

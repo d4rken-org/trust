@@ -1,0 +1,96 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fillViewport="false">
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:id="@+id/ll_dateline"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+            <ImageView
+                    android:layout_width="27dp"
+                    android:layout_height="27dp"
+                    android:id="@+id/iv_dateicon"
+                    android:src="@drawable/ic_action_clock"/>
+
+            <TextView
+                    android:id="@+id/tv_date"
+                    android:layout_width="fill_parent"
+                    android:singleLine="true"
+                    android:layout_height="match_parent"
+                    android:text="Date"
+                    android:gravity="center_vertical"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:id="@+id/ll_idline"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+            <ImageView
+                    android:layout_width="27dp"
+                    android:layout_height="27dp"
+                    android:id="@+id/iv_idicon"
+                    android:src="@drawable/ic_action_playback_play"/>
+
+            <TextView
+                    android:id="@+id/tv_id"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:singleLine="true"
+                    android:gravity="center_vertical"
+                    android:text="@string/event_no"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingTop="5dp">
+
+            <ImageView
+                    android:layout_width="27dp"
+                    android:layout_height="27dp"
+                    android:id="@+id/iv_infoicon"
+                    android:src="@drawable/ic_action_info"/>
+
+            <TextView
+                    android:id="@+id/tv_info"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/what_happened"
+                    android:gravity="center_vertical"
+                    />
+        </LinearLayout>
+
+
+        <TextView
+                android:id="@+id/tv_infocontent"
+                android:layout_width="fill_parent"
+                android:paddingLeft="27dp"
+                android:layout_height="wrap_content"
+                android:text="@string/what_happened"/>
+
+        <TextView
+                android:id="@+id/tv_gplay"
+                android:paddingTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/what_happened"
+                android:visibility="gone"/>
+    </LinearLayout>
+
+
+</ScrollView>

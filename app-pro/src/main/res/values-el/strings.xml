@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Trust Pro</string>
+  <string name="thank_you">Σας ευχαριστώ που αγοράσατε το Trust Pro και που υποστηρίζετε τη δουλεία μου!</string>
+  <string name="trust_market">Έναρξη Trust</string>
+  <string name="hide_launcher_icon">Απόκρυψη από το launcher</string>
+  <string name="explanation">Αυτό το Unlocker ενεργοποιεί επιπλέον λειτουργίες στην δωρεάν έκδοση του Trust\n\nΔεν χρειάζεται να ξεκινήσετε το Unlocker και απλά θα δείτε αυτή την εξήγηση.\n\nΣΗΜΕΊΩΣΗ: To Unlocker πρέπει να μείνει εγκατεστημένο, αλλά μπορείτε να το αποκρύψετε από τη λίστα εφαρμογών σας πατώντας το κουμπί (μπορεί να χρειαστεί επανεκκίνηση της συσκευής).\n\nΠερισσότερες ερωτήσεις; Στείλτε μου email!\nsupport@darken.eu\n\nΤώρα συνεχίστε ξεκινώντας το Trust</string>
+</resources>

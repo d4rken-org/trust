@@ -1,0 +1,10 @@
+This app unlocks the pro status in the free version of Trust.
+It does nothing by itself and should only be installed alongside the free version of Trust.
+
+Installing this unlocker will extend the maximum time events are kept from 24 hours to an unlimited time.
+It will also support my work, thanks :-).
+
+Should you have any questions, don't hesitate to send me an email.
+
+See also:
+https://play.google.com/store/apps/details?id=eu.thedarken.trust

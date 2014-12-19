@@ -1,0 +1,66 @@
+v2.0.3
+- Fixed issues with some taskmanagers
+- Fixed event ID not being reset on DB reset
+- Build against newer compat libraries
+- Fixed crash when checking foreground apps
+
+v2.0.2
+- Fixed reported crashs
+- Added french
+
+v2.0.1
+- Fixed dialog colors on gingerbread devices
+
+v2.0
+- Revisited and improved a lot of code
+- Improved the UI
+- Added app foreground activity tracking
+- Added wifi SSID to wifi events
+
+v1.2.8
+- Added portuguese (brazil) as language
+
+v1.2.7
+- App related events now show a link to the apps web/gplay site in their details
+- Small code changes 
+
+v1.2.6
+- Fixed leading 00 on numbers not being saved
+- Fixed two crashes
+
+v1.2.5
+- Added excel date/time to export columns
+- Added option to change displayed time style
+- Tweaked formatting a little bit
+
+Changelog:
+v1.2.4
+- added Italian as language
+
+v1.2.3
+- Fixed possibly FC on DetailsDialog when resuming app
+- Changed export format once more (date;time;timestamp;ID;type;extra;description)
+
+v1.2.2
+- Fixed notification not being removed
+- Added a formated date column to the exported database file
+
+v1.2.1
+- Fixed crash when setting password
+- Tweaked ics menu button
+- Settings now ask for pattern on resume too
+
+v1.2.0:
+- Events are stored forever unless specified otherwise in settings
+- Added option to export database to CSV
+- Some work on the UI dialogs
+- Translation preparations
+
+v1.1.2:
+- Wifi only devices should now see the app on the market too
+
+v1.1.1:
+- Small change to the manifest to increase device compatibility
+
+v1.1:
+- First public release of Trust

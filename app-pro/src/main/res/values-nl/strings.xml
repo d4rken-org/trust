@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Trust Pro</string>
+  <string name="thank_you">Bedankt voor het kopen van Trust Pro en het ondersteunen van mijn werk!</string>
+  <string name="trust_market">Start Trust</string>
+  <string name="hide_launcher_icon">Verberg launcher icoon</string>
+  <string name="explanation">Deze Ontsluiter activeert de bijkomende functies in de gratis versie van Trust\n\nDe Ontsluiter starten is niet nodig en zal enkel deze uitleg tonen.\n\nNOTA: De Ontsluiter moet geïnstalleerd blijven, maar je kan het icoon verbergen van de app lijst/menu door op de knop te drukken (kan een herstart vereisen)\n\nVerdere vragen? E-mail me!\nsupport@darken.eu\n\nGa nu verder door Trust te starten</string>
+</resources>

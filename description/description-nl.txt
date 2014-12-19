@@ -1,0 +1,22 @@
+Trust houd een klein logboek bij van gebeurtenissen voor u
+
+Ongeacht als het app veranderingen zijn, mensen die uw telefoon gebruiken of gemiste gesprekken, Trust zal je zeggen wat er gebeurd is en wanneer.
+
+Gebeurtenissen omvat nu:
+- Gestarte apps
+- Geïnstalleerde/verwijderde/vervangen/heropgestarte/gewiste app's
+- Stroom koppelen/ontkoppelen
+- Afsluiten/Opstarten
+- Scherm aan/uit gebeurtenissen
+- Lockscreen gebeurtenissen
+- Verlies van wifi/cell verbinding
+- Verwijderde media
+- Gesprekken
+
+Waar heeft Trust PERMISSIES voor nodig:
+*PROCESS_OUTGOING_CALLS is nodig om inkomende en uitgaande gesprekken te detecteren
+*RECEIVE_BOOT_COMPLETED om autostart en herstart te detecteren
+*READ_PHONE_STATE om verbinding veranderingen te detecteren
+*WRITE_EXTERNAL_STORAGE om de database te exporteren
+*GET_TASKS voor apps op de voorgrond
+*ACCESS_WIFI_STATE voor wifi SSIDs

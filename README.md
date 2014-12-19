@@ -1,6 +1,8 @@
 Trust - Event Logger
 =============
 
+Available on [Google Play](https://play.google.com/store/apps/details?id=eu.thedarken.trust).
+
 A small event logging tool for Android.
 
 Trust keeps a small log of events for you.

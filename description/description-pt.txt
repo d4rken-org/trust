@@ -1,0 +1,10 @@
+Este aplicativo desbloqueia o status pro na versão gratuita do Trust.
+Ele não faz nada por si só, e só deve ser instalado junto com a versão gratuita do Trust.
+
+A instalação deste desbloqueador vai estender o tempo máximo de eventos que são mantidos de 24 horas para um tempo ilimitado.
+Ele também irá apoiar o meu trabalho, obrigado :-).
+
+Se você tiver alguma dúvida, não hesite em enviar-me um e-mail.
+
+Ver também:
+https://play.google.com/store/apps/details?id=eu.thedarken.trust

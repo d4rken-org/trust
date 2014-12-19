@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/preferences_general" >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="general.autostart"
+            android:summary="@string/preferences_autostart_summary"
+            android:title="@string/preferences_autostart_title" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="general.notification"
+            android:summary="@string/preferences_notification_summary"
+            android:title="@string/preferences_notification_title" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="display.time.alternative"
+            android:summary="Display exact times instead of passed time till now"
+            android:title="Alternative time display" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/preferences_security" >
+        <PreferenceScreen
+            android:key="general.protection.config.create"
+            android:summary="@string/preferences_create_protection_summary"
+            android:title="@string/preferences_create_protection_title" />
+        <PreferenceScreen
+            android:key="general.protection.config.clear"
+            android:summary="@string/preferences_clear_protection_summary"
+            android:title="@string/preferences_clear_protection_title" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/preference_database" >
+        <EditTextPreference
+            android:defaultValue="14"
+            android:dialogMessage="@string/preferences_history_length_dialog_message"
+            android:dialogTitle="@string/preferences_history_length_dialog_title"
+            android:digits="0123456789"
+            android:inputType="numberDecimal"
+            android:key="database.keep.time"
+            android:numeric="decimal"
+            android:summary="@string/preferences_history_length_summary"
+            android:title="@string/preferences_history_length_title" />
+
+        <PreferenceScreen
+            android:key="database.reset"
+            android:summary="@string/preferences_database_reset_summary"
+            android:title="@string/preferences_database_reset_title" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="GitHub" >
+        <PreferenceScreen
+            android:key="github.trust"
+            android:summary="This app is open source."
+            android:title="Trust @ GitHub" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Licenses" >
+        <PreferenceScreen
+                android:key="licenses.lockpattern"
+                android:summary="by Hai Bison, under APACHE 2.0"
+                android:title="android-lockpattern" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

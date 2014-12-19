@@ -1,0 +1,10 @@
+Cet appli transforme la version gratuite de Confiance en version Pro.
+Elle ne fait rien par elle-même et devrait être installée aux côtés de la version gratuite de Confiance.
+
+En installant ce déverrouilleur, la limite de durée maximale de 24 heures durant laquelle les événements sont gardés sera supprimée. Ils le seront indéfiniment.
+Ceci soutiendra aussi mon travail, merci. :-) 
+
+Si vous avez des questions n'hésitez pas à m'envoyer un courriel.
+
+Voir aussi :
+https://play.google.com/store/apps/details?id=eu.thedarken.trust

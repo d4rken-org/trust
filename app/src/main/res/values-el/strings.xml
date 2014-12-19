@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Trust</string>
+  <string name="app_name_pro">Trust Pro</string>
+  <string name="lockscreen_access_pattern_cell_added">Προστέθηκε cell</string>
+  <string name="lockscreen_access_pattern_start">Το μοτίβο ξεκίνησε</string>
+  <string name="lockscreen_access_pattern_detected">Το μοτίβο τελείωσε</string>
+  <string name="lockscreen_access_pattern_cleared">Το μοτίβο καθαρίστηκε</string>
+  <string name="msg_try_again">Συγνώμη, ξαναπροσπαθήστε</string>
+  <string name="msg_redraw_pattern_to_confirm">Επανεισάγεται το μοτίβο για επιβεβαίωση:</string>
+  <string name="cmd_retry">Ξανά</string>
+  <string name="cmd_cancel">Άκυρο</string>
+  <string name="cmd_confirm">Επιβεβαίωση </string>
+  <string name="cmd_continue">Συνέχεια</string>
+  <string name="msg_connect_4dots">Συνδέστε τουλάχιστον 4 τελείες.\nΞαναπροσπαθήστε…</string>
+  <string name="msg_ok">OK</string>
+  <string name="msg_draw_an_unlock_pattern">Σχεδιάστε ένα μοτίβο για ξεκλείδωμα:</string>
+  <string name="msg_release_finger_when_done">Αφήστε το δάκτυλό σας όταν τελειώσετε </string>
+  <string name="msg_pattern_recorded">Το μοτίβο καταγράφηκε!</string>
+  <string name="msg_your_new_unlock_pattern">Το καινούριο μοτίβο ξεκλειδώματος:</string>
+  <string name="msg_draw_pattern_to_unlock">Σχεδιάστε το μοτίβο ξεκλειδώματος:</string>
+  <string name="too_many_pattern_attempts">Υπερβολικά πολλές προσπάθειες…</string>
+  <string name="pattern_removed">Το μοτίβο διαγράφηκε!</string>
+  <string name="news_title">Νέα</string>
+</resources>

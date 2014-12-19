@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Trust Pro</string>
+  <string name="thank_you">Grazie per aver acquistata Trust Pro e lo supporto per il mio lavoro!</string>
+  <string name="hide_launcher_icon">Nasconde icona di avvio</string>
+  <string name="explanation">Questo sblocco consente le caratteristiche addizionale nella versione gratuita di Trust\nAvviando lo sblocco non è necessario e mostra solo questa spiegazione.\nNOTA: Lo sblocco deve rimanere installato, ma potete nascondere l\'icona dalla lista/menu app  premendo il bottone (puo richiedere un riavvio).\nAltre domande? Mandami un email!\nsupport@darken.eu\nOra procedere avviando Trust</string>
+</resources>
