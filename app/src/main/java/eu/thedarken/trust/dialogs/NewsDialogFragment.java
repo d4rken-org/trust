@@ -15,6 +15,7 @@ import android.support.v4.app.FragmentManager;
 import android.view.ContextThemeWrapper;
 import android.view.View;
 import android.widget.Toast;
+
 import eu.thedarken.trust.R;
 import eu.thedarken.trust.TrustActivity;
 

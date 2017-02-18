@@ -25,11 +25,12 @@ import android.provider.Settings;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import java.util.List;
+
 import eu.thedarken.trust.R;
 import eu.thedarken.trust.lockpattern.LockPatternView.Cell;
 import eu.thedarken.trust.lockpattern.LockPatternView.DisplayMode;
-
-import java.util.List;
 
 public class LockPatternActivity extends Activity {
 

@@ -18,7 +18,7 @@ public class AppWatcher {
     private TrustDB mDB;
     private String lastActiveApp = "";
     private Handler handler = new Handler();
-    ;
+
     private Checker checker = new Checker();
     private long checkInterval = 1000;
     private LogEntryMaker mLogEntryMaker;

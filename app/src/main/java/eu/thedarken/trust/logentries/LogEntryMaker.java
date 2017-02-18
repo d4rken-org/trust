@@ -3,6 +3,7 @@ package eu.thedarken.trust.logentries;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager.NameNotFoundException;
+
 import eu.thedarken.trust.db.TrustDB;
 
 public class LogEntryMaker {

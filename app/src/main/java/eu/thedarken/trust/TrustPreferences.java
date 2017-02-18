@@ -1,14 +1,23 @@
 package eu.thedarken.trust;
 
 import android.app.AlertDialog;
-import android.content.*;
+import android.content.ComponentName;
+import android.content.Context;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
-import android.preference.*;
+import android.preference.CheckBoxPreference;
+import android.preference.Preference;
+import android.preference.PreferenceActivity;
+import android.preference.PreferenceManager;
+import android.preference.PreferenceScreen;
 import android.util.Log;
 import android.widget.Toast;
+
 import eu.thedarken.trust.db.TrustDB;
 import eu.thedarken.trust.lockpattern.LockPatternActivity;
 import eu.thedarken.trust.logentries.IDMaker;
@@ -114,6 +123,9 @@ public class TrustPreferences extends PreferenceActivity {
             startActivity(browserIntent);
         } else if (preference.getKey().equals("licenses.lockpattern")) {
             Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://code.google.com/p/android-lockpattern/"));
+            startActivity(browserIntent);
+        } else if (preference.getKey().equals("misc.privacy")) {
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/d4rken/trust/blob/master/privacy_policy_for_gplay.md"));
             startActivity(browserIntent);
         }
         return false;

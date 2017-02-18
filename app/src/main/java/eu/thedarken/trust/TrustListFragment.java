@@ -1,7 +1,11 @@
 package eu.thedarken.trust;
 
 import android.app.Activity;
-import android.content.*;
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.Intent;
+import android.content.IntentFilter;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.Handler;
 import android.preference.PreferenceManager;
@@ -13,13 +17,14 @@ import android.view.ViewGroup;
 import android.widget.AbsListView;
 import android.widget.AdapterView;
 import android.widget.ListView;
+
+import java.util.Iterator;
+import java.util.List;
+
 import eu.thedarken.trust.db.TrustDB;
 import eu.thedarken.trust.dialogs.DetailsDialogFragment;
 import eu.thedarken.trust.logentries.IDMaker;
 import eu.thedarken.trust.logentries.LogEntry;
-
-import java.util.Iterator;
-import java.util.List;
 
 public class TrustListFragment extends Fragment implements AdapterView.OnItemClickListener, AbsListView.OnScrollListener {
     final static String TAG = "TR:TrustListFragment";

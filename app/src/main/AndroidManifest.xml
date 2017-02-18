@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
           package="eu.thedarken.trust">
 
     <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>
@@ -25,10 +26,11 @@
 
 
     <application
-            android:allowBackup="true"
-            android:icon="@drawable/ic_launcher"
-            android:label="@string/app_name"
-            android:theme="@style/TrustTheme">
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/TrustTheme"
+        tools:ignore="GoogleAppIndexingWarning">
         <activity
                 android:name=".TrustActivity"
                 android:label="@string/app_name">

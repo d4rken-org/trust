@@ -7,9 +7,10 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
-import eu.thedarken.trust.logentries.LogEntry;
 
 import java.util.ArrayList;
+
+import eu.thedarken.trust.logentries.LogEntry;
 
 public class TrustDB {
     public final static long WEEK = 604800000;

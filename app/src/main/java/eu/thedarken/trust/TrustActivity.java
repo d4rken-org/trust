@@ -8,7 +8,6 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.content.pm.PackageManager.NameNotFoundException;
-import android.net.Uri;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v4.app.FragmentTransaction;
@@ -17,8 +16,12 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
-import eu.thedarken.trust.db.TrustDB;
-import eu.thedarken.trust.dialogs.*;
+
+import eu.thedarken.trust.dialogs.AboutDialogFragment;
+import eu.thedarken.trust.dialogs.ExportDialogFragment;
+import eu.thedarken.trust.dialogs.FilterDialogFragment;
+import eu.thedarken.trust.dialogs.FollowMeDialog;
+import eu.thedarken.trust.dialogs.NewsDialogFragment;
 import eu.thedarken.trust.lockpattern.LockPatternActivity;
 
 public class TrustActivity extends ActionBarActivity {

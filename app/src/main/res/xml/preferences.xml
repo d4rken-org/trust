@@ -57,5 +57,10 @@
                 android:summary="by Hai Bison, under APACHE 2.0"
                 android:title="android-lockpattern" />
     </PreferenceCategory>
-
+    <PreferenceCategory android:title="Misc">
+        <PreferenceScreen
+            android:key="misc.privacy"
+            android:summary="No data is collected or shared."
+            android:title="Privacy Policy"/>
+    </PreferenceCategory>
 </PreferenceScreen>

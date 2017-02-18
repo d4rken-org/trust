@@ -15,6 +15,7 @@ import android.view.View;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.CompoundButton.OnCheckedChangeListener;
+
 import eu.thedarken.trust.R;
 import eu.thedarken.trust.TrustListFragment;
 

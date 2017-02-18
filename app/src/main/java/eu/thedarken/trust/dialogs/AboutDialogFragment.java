@@ -12,6 +12,7 @@ import android.support.v4.app.DialogFragment;
 import android.support.v4.app.FragmentManager;
 import android.view.ContextThemeWrapper;
 import android.view.View;
+
 import eu.thedarken.trust.R;
 
 public class AboutDialogFragment extends DialogFragment {

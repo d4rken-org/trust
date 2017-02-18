@@ -16,9 +16,6 @@
 
 package eu.thedarken.trust.lockpattern;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -37,6 +34,10 @@ import android.view.HapticFeedbackConstants;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.accessibility.AccessibilityEvent;
+
+import java.util.ArrayList;
+import java.util.List;
+
 import eu.thedarken.trust.R;
 
 /**

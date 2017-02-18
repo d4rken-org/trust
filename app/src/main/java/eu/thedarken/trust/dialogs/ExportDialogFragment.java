@@ -14,10 +14,6 @@ import android.support.v4.app.DialogFragment;
 import android.support.v4.app.FragmentManager;
 import android.view.ContextThemeWrapper;
 import android.widget.Toast;
-import eu.thedarken.trust.R;
-import eu.thedarken.trust.db.TrustDB;
-import eu.thedarken.trust.logentries.Descriptions;
-import eu.thedarken.trust.logentries.LogEntry;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -26,6 +22,11 @@ import java.io.OutputStreamWriter;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
+
+import eu.thedarken.trust.R;
+import eu.thedarken.trust.db.TrustDB;
+import eu.thedarken.trust.logentries.Descriptions;
+import eu.thedarken.trust.logentries.LogEntry;
 
 public class ExportDialogFragment extends DialogFragment {
 

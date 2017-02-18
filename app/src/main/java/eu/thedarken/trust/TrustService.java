@@ -14,6 +14,7 @@ import android.os.SystemClock;
 import android.preference.PreferenceManager;
 import android.telephony.TelephonyManager;
 import android.util.Log;
+
 import eu.thedarken.trust.logentries.LogEntryMaker;
 
 public class TrustService extends Service {

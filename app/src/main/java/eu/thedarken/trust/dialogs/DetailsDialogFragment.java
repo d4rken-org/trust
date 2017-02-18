@@ -13,11 +13,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import java.text.SimpleDateFormat;
+
 import eu.thedarken.trust.R;
 import eu.thedarken.trust.logentries.Descriptions;
 import eu.thedarken.trust.logentries.LogEntry;
-
-import java.text.SimpleDateFormat;
 
 public class DetailsDialogFragment extends DialogFragment {
 

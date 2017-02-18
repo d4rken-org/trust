@@ -8,12 +8,13 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-import eu.thedarken.trust.logentries.Descriptions;
-import eu.thedarken.trust.logentries.LogEntry;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
+
+import eu.thedarken.trust.logentries.Descriptions;
+import eu.thedarken.trust.logentries.LogEntry;
 
 public class TrustListAdapter extends BaseAdapter {
     private final List<LogEntry> mData = new ArrayList<LogEntry>();

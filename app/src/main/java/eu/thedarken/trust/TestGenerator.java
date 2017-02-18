@@ -1,6 +1,7 @@
 package eu.thedarken.trust;
 
 import android.content.Context;
+
 import eu.thedarken.trust.db.TrustDB;
 import eu.thedarken.trust.logentries.LogEntry;
 

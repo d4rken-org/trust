@@ -2,14 +2,14 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 21
-    buildToolsVersion "21.1.1"
+    buildToolsVersion "25.0.2"
 
     defaultConfig {
         applicationId "eu.thedarken.trust"
         minSdkVersion 7
         targetSdkVersion 19
-        versionCode 24
-        versionName "2.0.4"
+        versionCode 25
+        versionName "2.0.5"
     }
     buildTypes {
         release {

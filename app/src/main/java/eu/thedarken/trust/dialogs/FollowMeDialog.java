@@ -11,6 +11,7 @@ import android.support.v4.app.DialogFragment;
 import android.support.v7.app.ActionBarActivity;
 import android.view.ContextThemeWrapper;
 import android.widget.Toast;
+
 import eu.thedarken.trust.R;
 
 public class FollowMeDialog extends DialogFragment {

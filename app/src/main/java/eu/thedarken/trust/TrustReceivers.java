@@ -4,6 +4,7 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
+
 import eu.thedarken.trust.logentries.IntentHelper;
 import eu.thedarken.trust.logentries.LogEntry;
 import eu.thedarken.trust.logentries.LogEntryMaker;
